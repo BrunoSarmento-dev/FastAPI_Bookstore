@@ -7,7 +7,8 @@ book_database = [
     "Cem Anos de Solidão - Gabriel García Márquez",
     "1984 - George Orwell",
     "O Pequeno Príncipe - Antoine de Saint-Exupéry",
-    "Harry Potter e a Pedra Filosofal - J.K. Rowling"
+    "Harry Potter e a Pedra Filosofal - J.K. Rowling",
+    "Harry Potter e o Prisioneiro de Azkaban - J.K. Rowling"
 ]
 
 # /      -> Boas vindas!
